@@ -27,6 +27,6 @@ Global
 		{2CD802DE-ADA0-4319-B2C5-CAA398A92C79}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
+		HideSolutionNode = TRUE
 	EndGlobalSection
 EndGlobal
